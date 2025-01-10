@@ -36,9 +36,13 @@ Des graphiques sont générés pour visualiser l'impact des variables sur les pr
 Le fichier submission.csv contient les prédictions du modèle sur le nombre de visiteurs dans le magasin, avec une structure similaire à celle-ci :
 
 id	visitors
+
 0	123
+
 1	98
+
 2	145
+
 ...	...
 ## ⚙️ Paramètres Modifiables
 Vous pouvez ajuster les paramètres suivants dans main.py :
